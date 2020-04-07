@@ -1,6 +1,6 @@
 # layout_tutorial
 
-A new Flutter project.
+This is the Flutter Layout Tutorial from Flutter.dev
 
 ## Getting Started
 
